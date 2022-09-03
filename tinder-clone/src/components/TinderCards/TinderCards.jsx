@@ -16,6 +16,10 @@ const TinderCards = () => {
       name: "Rihanna",
       url: "https://imageio.forbes.com/specials-images/imageserve/5ceec355142c500008f42068/Rihanna-Diamond-Ball-Forbes-Women/0x0.jpg?format=jpg&crop=1950,1950,x32,y257,safe&height=1950&width=1950",
     },
+    {
+      name: "Dua Lipa",
+      url: "https://i.scdn.co/image/ab67616d0000b2731764e1a1b94e887206782640"
+    }
   ]);
 
   const swiped = (direction, nameToDelete) => {
